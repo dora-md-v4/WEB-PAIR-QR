@@ -18,7 +18,7 @@ https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
 *Yᴏᴜ-ᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟꜱ* 🪄 
 https://youtube.com/GlobalTechInfo
 
-*ULTRA-MD--WHATTSAPP-BOT* 🥀
+*DORA-MD--WHATSAPP-BOT* 🥀
 `;
 
 const { upload } = require('./mega');
